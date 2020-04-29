@@ -1,9 +1,25 @@
+<<<<<<< HEAD
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+=======
+<<<<<<< HEAD
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+=======
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
 Partial Class frm_main
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
+<<<<<<< HEAD
     <System.Diagnostics.DebuggerNonUserCode()>
+=======
+<<<<<<< HEAD
+    <System.Diagnostics.DebuggerNonUserCode()>
+=======
+    <System.Diagnostics.DebuggerNonUserCode()> _
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,6 +36,10 @@ Partial Class frm_main
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frm_main))
@@ -35,13 +55,28 @@ Partial Class frm_main
         Me.lbl_email = New System.Windows.Forms.ToolStripStatusLabel()
         Me.ToolStripStatusLabel9 = New System.Windows.Forms.ToolStripStatusLabel()
         Me.lbl_timelogin = New System.Windows.Forms.ToolStripStatusLabel()
+<<<<<<< HEAD
+=======
+=======
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.ToolStrip1 = New System.Windows.Forms.ToolStrip()
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton1 = New System.Windows.Forms.ToolStripButton()
         Me.ToolStripButton5 = New System.Windows.Forms.ToolStripButton()
         Me.ToolStripButton4 = New System.Windows.Forms.ToolStripButton()
         Me.ToolStripButton3 = New System.Windows.Forms.ToolStripButton()
         Me.ToolStripButton2 = New System.Windows.Forms.ToolStripButton()
         Me.ToolStrip1.SuspendLayout()
+<<<<<<< HEAD
         Me.StatusStrip1.SuspendLayout()
+=======
+<<<<<<< HEAD
+        Me.StatusStrip1.SuspendLayout()
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.SuspendLayout()
         '
         'ToolStrip1
@@ -53,6 +88,10 @@ Partial Class frm_main
         Me.ToolStrip1.TabIndex = 1
         Me.ToolStrip1.Text = "ToolStrip1"
         '
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         'StatusStrip1
         '
         Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripStatusLabel7, Me.lbl_username, Me.ToolStripStatusLabel5, Me.lbl_name, Me.ToolStripStatusLabel3, Me.lbl_tel, Me.ToolStripStatusLabel1, Me.lbl_email, Me.ToolStripStatusLabel9, Me.lbl_timelogin})
@@ -132,23 +171,52 @@ Partial Class frm_main
         Me.lbl_timelogin.Size = New System.Drawing.Size(37, 23)
         Me.lbl_timelogin.Text = "xxx"
         '
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         'ToolStripButton1
         '
         Me.ToolStripButton1.AutoSize = False
         Me.ToolStripButton1.Font = New System.Drawing.Font("DilleniaUPC", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.ToolStripButton1.Image = Global.coffeeshopMD.My.Resources.Resources._3
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton1.Image = Global.coffeeshopMD.My.Resources.Resources._3
+=======
+        Me.ToolStripButton1.Image = Global.coffeeshopMD.My.Resources.Resources.sell
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton1.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None
         Me.ToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton1.Name = "ToolStripButton1"
         Me.ToolStripButton1.Size = New System.Drawing.Size(120, 120)
+<<<<<<< HEAD
         Me.ToolStripButton1.Text = "SaleCoffee"
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton1.Text = "SaleCoffee"
+=======
+        Me.ToolStripButton1.Text = "Coffee"
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText
         '
         'ToolStripButton5
         '
         Me.ToolStripButton5.AutoSize = False
         Me.ToolStripButton5.Font = New System.Drawing.Font("DilleniaUPC", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.ToolStripButton5.Image = Global.coffeeshopMD.My.Resources.Resources._94
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton5.Image = Global.coffeeshopMD.My.Resources.Resources._94
+=======
+        Me.ToolStripButton5.Image = Global.coffeeshopMD.My.Resources.Resources.sell
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton5.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None
         Me.ToolStripButton5.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton5.Name = "ToolStripButton5"
@@ -160,7 +228,15 @@ Partial Class frm_main
         '
         Me.ToolStripButton4.AutoSize = False
         Me.ToolStripButton4.Font = New System.Drawing.Font("DilleniaUPC", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.ToolStripButton4.Image = Global.coffeeshopMD.My.Resources.Resources._2
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton4.Image = Global.coffeeshopMD.My.Resources.Resources._2
+=======
+        Me.ToolStripButton4.Image = Global.coffeeshopMD.My.Resources.Resources.sell
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton4.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None
         Me.ToolStripButton4.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton4.Name = "ToolStripButton4"
@@ -172,24 +248,56 @@ Partial Class frm_main
         '
         Me.ToolStripButton3.AutoSize = False
         Me.ToolStripButton3.Font = New System.Drawing.Font("DilleniaUPC", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.ToolStripButton3.Image = CType(resources.GetObject("ToolStripButton3.Image"), System.Drawing.Image)
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton3.Image = CType(resources.GetObject("ToolStripButton3.Image"), System.Drawing.Image)
+=======
+        Me.ToolStripButton3.Image = Global.coffeeshopMD.My.Resources.Resources.sell
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton3.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None
         Me.ToolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton3.Name = "ToolStripButton3"
         Me.ToolStripButton3.Size = New System.Drawing.Size(120, 120)
+<<<<<<< HEAD
         Me.ToolStripButton3.Text = "Promotion"
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton3.Text = "Promotion"
+=======
+        Me.ToolStripButton3.Text = "จัดการพนักงาน"
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText
         '
         'ToolStripButton2
         '
         Me.ToolStripButton2.AutoSize = False
         Me.ToolStripButton2.Font = New System.Drawing.Font("DilleniaUPC", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.ToolStripButton2.Image = CType(resources.GetObject("ToolStripButton2.Image"), System.Drawing.Image)
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton2.Image = CType(resources.GetObject("ToolStripButton2.Image"), System.Drawing.Image)
+=======
+        Me.ToolStripButton2.Image = Global.coffeeshopMD.My.Resources.Resources.sell
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton2.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None
         Me.ToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton2.Name = "ToolStripButton2"
         Me.ToolStripButton2.Size = New System.Drawing.Size(120, 120)
+<<<<<<< HEAD
         Me.ToolStripButton2.Text = "Log Out"
+=======
+<<<<<<< HEAD
+        Me.ToolStripButton2.Text = "Log Out"
+=======
+        Me.ToolStripButton2.Text = "ขายกาแฟ"
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ToolStripButton2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText
         '
         'frm_main
@@ -197,6 +305,10 @@ Partial Class frm_main
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(894, 467)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.Controls.Add(Me.StatusStrip1)
         Me.Controls.Add(Me.ToolStrip1)
         Me.IsMdiContainer = True
@@ -206,6 +318,17 @@ Partial Class frm_main
         Me.ToolStrip1.PerformLayout()
         Me.StatusStrip1.ResumeLayout(False)
         Me.StatusStrip1.PerformLayout()
+<<<<<<< HEAD
+=======
+=======
+        Me.Controls.Add(Me.ToolStrip1)
+        Me.IsMdiContainer = True
+        Me.Name = "frm_main"
+        Me.Text = "frm_main"
+        Me.ToolStrip1.ResumeLayout(False)
+        Me.ToolStrip1.PerformLayout()
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -217,6 +340,10 @@ Partial Class frm_main
     Friend WithEvents ToolStripButton4 As ToolStripButton
     Friend WithEvents ToolStripButton3 As ToolStripButton
     Friend WithEvents ToolStripButton2 As ToolStripButton
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
     Friend WithEvents StatusStrip1 As StatusStrip
     Friend WithEvents ToolStripStatusLabel7 As ToolStripStatusLabel
     Friend WithEvents lbl_username As ToolStripStatusLabel
@@ -228,4 +355,9 @@ Partial Class frm_main
     Friend WithEvents lbl_email As ToolStripStatusLabel
     Friend WithEvents ToolStripStatusLabel9 As ToolStripStatusLabel
     Friend WithEvents lbl_timelogin As ToolStripStatusLabel
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
 End Class

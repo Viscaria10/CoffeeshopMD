@@ -120,6 +120,10 @@
   <metadata name="ToolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="ToolStripButton3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -352,4 +356,9 @@
   <metadata name="StatusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>124, 17</value>
   </metadata>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
 </root>

@@ -1,4 +1,8 @@
 ﻿Public Class frm_main
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
     Private Sub frm_main_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Me.WindowState = FormWindowState.Maximized
     End Sub
@@ -37,4 +41,10 @@
         frm_customer.Show()
         frm_customer.MdiParent = Me
     End Sub
+<<<<<<< HEAD
+=======
+=======
+
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
+>>>>>>> 5161a45d4146e7ea02036b6319d10c22e24ea894
 End Class
