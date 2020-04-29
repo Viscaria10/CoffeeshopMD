@@ -13,15 +13,24 @@ Option Explicit On
 
 
 Namespace My
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     'NOTE: This file is auto-generated; do not modify it directly.  To make changes,
     ' or if you encounter build errors in this file, go to the Project Designer
     ' (go to Project Properties or double-click the My Project node in
     ' Solution Explorer), and make changes on the Application tab.
     '
     Partial Friend Class MyApplication
+<<<<<<< HEAD
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
+=======
+
+        <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         Public Sub New()
             MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
             Me.IsSingleInstance = false
@@ -29,8 +38,13 @@ Namespace My
             Me.SaveMySettingsOnExit = true
             Me.ShutDownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
         End Sub
+<<<<<<< HEAD
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
+=======
+
+        <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         Protected Overrides Sub OnCreateMainForm()
             Me.MainForm = Global.coffeeshopMD.frm_login
         End Sub

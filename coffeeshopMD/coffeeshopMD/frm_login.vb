@@ -34,6 +34,7 @@ Public Class frm_login
             txt_username.Select()
         Else
             msg_ok("login สำเร็จ")
+<<<<<<< HEAD
             frm_main.Show()
             Me.Hide()
 
@@ -49,6 +50,8 @@ Public Class frm_login
             End With
 
 
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         End If
     End Sub
 
@@ -78,10 +81,13 @@ Public Class frm_login
 
         My.Settings.Save()
     End Sub
+<<<<<<< HEAD
 
     Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
         Me.Hide()
         frm_customer_login.Show()
 
     End Sub
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
 End Class

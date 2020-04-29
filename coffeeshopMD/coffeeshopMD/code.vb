@@ -7,7 +7,10 @@ Module code
     Friend cmd As New SqlCommand
     Friend DA As New SqlDataAdapter
     Friend sql As String
+<<<<<<< HEAD
     Friend DS As DataSet
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
 
 
 
@@ -19,13 +22,18 @@ Module code
     End Sub
 
 
+<<<<<<< HEAD
     'ฟังก์ชั้นรีเทินค่าฐานข้อมูล
+=======
+    'ฟังก์ชั้นรีเทินค่าฐานข้อมูล'
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     Friend Function cmd_excuteScalar()
         connect_open()
         cmd = New SqlCommand(sql, cn)
         Return cmd.ExecuteScalar
     End Function
 
+<<<<<<< HEAD
     'ฟังก์ชั่นรีเทิร์น data table จากฐานข้อมูล
     Friend Function cmd_excuteDataTable()
         connect_open()
@@ -37,6 +45,10 @@ Module code
 
 
     'ฟังก์ชั่นสุ่มตัวเลข security code
+=======
+
+    'ฟังก์ชั่นสุ่มตัวเลข security code'
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     Friend Function rnd_securitu_code()
         Randomize()
         Dim i As Integer = 99999 * Rnd()
@@ -44,11 +56,14 @@ Module code
 
     End Function
 
+<<<<<<< HEAD
 
     Friend Function cmd_excuteNonquery()
         cmd = New SqlCommand(sql, cn)
         Return cmd.ExecuteNonQuery
     End Function
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     Friend Sub msg_error(text As String, Optional title As String = "ผิดพลาด")
         MsgBox(text, vbCritical + vbOKOnly, title)
     End Sub

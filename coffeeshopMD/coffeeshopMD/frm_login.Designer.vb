@@ -35,7 +35,10 @@ Partial Class frm_login
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.chk_remember = New System.Windows.Forms.CheckBox()
+<<<<<<< HEAD
         Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         Me.SuspendLayout()
         '
         'Label1
@@ -182,6 +185,7 @@ Partial Class frm_login
         Me.chk_remember.Text = "Remember Username"
         Me.chk_remember.UseVisualStyleBackColor = False
         '
+<<<<<<< HEAD
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
@@ -193,6 +197,8 @@ Partial Class frm_login
         Me.LinkLabel1.TabStop = True
         Me.LinkLabel1.Text = "สำหรับลูกค้าคลิกที่นี่ !"
         '
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         'frm_login
         '
         Me.AcceptButton = Me.btn_login
@@ -203,7 +209,10 @@ Partial Class frm_login
         Me.CancelButton = Me.btn_exit
         Me.ClientSize = New System.Drawing.Size(439, 455)
         Me.ControlBox = False
+<<<<<<< HEAD
         Me.Controls.Add(Me.LinkLabel1)
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         Me.Controls.Add(Me.chk_remember)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
@@ -239,5 +248,8 @@ Partial Class frm_login
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
     Friend WithEvents chk_remember As CheckBox
+<<<<<<< HEAD
     Friend WithEvents LinkLabel1 As LinkLabel
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
 End Class

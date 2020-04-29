@@ -14,7 +14,10 @@
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+<<<<<<< HEAD
     <IsWebBootstrapper>false</IsWebBootstrapper>
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -27,6 +30,10 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+<<<<<<< HEAD
+=======
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -97,6 +104,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="code.vb" />
+<<<<<<< HEAD
     <Compile Include="frm_coffeeSale.Designer.vb">
       <DependentUpon>frm_coffeeSale.vb</DependentUpon>
     </Compile>
@@ -121,6 +129,8 @@
     <Compile Include="frm_employee.vb">
       <SubType>Form</SubType>
     </Compile>
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     <Compile Include="frm_login.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -128,18 +138,22 @@
       <DependentUpon>frm_login.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frm_customer_login.Designer.vb">
       <DependentUpon>frm_customer_login.vb</DependentUpon>
     </Compile>
     <Compile Include="frm_customer_login.vb">
       <SubType>Form</SubType>
     </Compile>
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     <Compile Include="frm_main.Designer.vb">
       <DependentUpon>frm_main.vb</DependentUpon>
     </Compile>
     <Compile Include="frm_main.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frm_manage_coffee.Designer.vb">
       <DependentUpon>frm_manage_coffee.vb</DependentUpon>
     </Compile>
@@ -177,6 +191,8 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ListView_Control.vb" />
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -194,6 +210,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <EmbeddedResource Include="frm_coffeeSale.resx">
       <DependentUpon>frm_coffeeSale.vb</DependentUpon>
     </EmbeddedResource>
@@ -233,6 +250,14 @@
     <EmbeddedResource Include="frm_usepromotion.resx">
       <DependentUpon>frm_usepromotion.vb</DependentUpon>
     </EmbeddedResource>
+=======
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_main.resx">
+      <DependentUpon>frm_main.vb</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -285,6 +310,7 @@
   <ItemGroup>
     <None Include="Resources\kisspng-coffee.png" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <None Include="Resources\94.png" />
   </ItemGroup>
@@ -321,5 +347,7 @@
   <ItemGroup>
     <None Include="Resources\user11.png" />
   </ItemGroup>
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

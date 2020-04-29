@@ -19,6 +19,7 @@ C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\bin\Debug\MySql.
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\bin\Debug\MySql.Web.xml
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.vbproj.CopyComplete
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.frm_main.resources
+<<<<<<< HEAD
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.frm_manage_coffee.resources
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.frm_coffeeSale.resources
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.frm_select_price.resources
@@ -30,3 +31,5 @@ C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffee
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.frm_customer_main.resources
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.frm_customer_login.resources
 C:\Users\WINDOWS10\Desktop\coffeeshop\coffeeshopMD\coffeeshopMD\obj\Debug\coffeeshopMD.frm_employee.resources
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1

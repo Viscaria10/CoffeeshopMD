@@ -63,6 +63,7 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+<<<<<<< HEAD
         Friend ReadOnly Property _1() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("1", resourceCulture)
@@ -143,6 +144,8 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         Friend ReadOnly Property c1() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("c1", resourceCulture)
@@ -163,6 +166,7 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+<<<<<<< HEAD
         Friend ReadOnly Property dufault_coffee() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("dufault_coffee", resourceCulture)
@@ -173,6 +177,8 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         Friend ReadOnly Property kisspng_coffee() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("kisspng-coffee", resourceCulture)
@@ -213,6 +219,7 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+<<<<<<< HEAD
         Friend ReadOnly Property user() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("user", resourceCulture)
@@ -243,6 +250,8 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+=======
+>>>>>>> 216d8087a2f689497a661d7a92fca7fbdf6d69e1
         Friend ReadOnly Property ป้ายร้านกาแฟ_1() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("ป้ายร้านกาแฟ-1", resourceCulture)
